@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Flyer!",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-03-02T18:37:05.832444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely Steel Sheet Flyer",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Lonely_Steel_Sheet_Flyer_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Steel Sheet Flyer",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Lonely_Steel_Sheet_Flyer_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Flyer",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/03_High_Flyer_UFO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Frequent Flyer",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/04_Frequent_Flyer_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight Flyer",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/05_Midnight_Flyer_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Flyer - Remastered 1994",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/06_Midnight_Flyer_-_Remastered_1994_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Flyer (Remastered)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/07_Midnight_Flyer_(Remastered)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High Flyer",
+      "artist": "UFO",
+      "has_synced": true,
+      "path": "select/08_High_Flyer_UFO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight Flyer - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/09_Midnight_Flyer_-_2013_Remaster_Eagles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Midnight Flyer",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/10_Midnight_Flyer_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sci-Flyer",
+      "artist": "Swervedriver",
+      "has_synced": true,
+      "path": "select/11_Sci-Flyer_Swervedriver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fylingdale Flyer",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/12_Fylingdale_Flyer_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kadu Flyer",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/13_Kadu_Flyer_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Midnight Flyer (Live Broadcast 1976)",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/14_Midnight_Flyer_(Live_Broadcast_1976)_Eagles.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midnight Flyer",
+      "artist": "Nat King Cole",
+      "has_synced": true,
+      "path": "select/15_Midnight_Flyer_Nat_King_Cole.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Midnight Flyer (2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/16_Midnight_Flyer_(2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Midnight Flyer",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/17_Midnight_Flyer_Eagles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flyer!",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_Flyer!_Chinozo.txt"
+    }
+  ]
+}
